@@ -2317,7 +2317,3 @@ Then, compress `dist`, upload it to Cosmic, and we're ready to start managing ap
 
 
 Using Cosmic JS, Twilio, Express, and React, we've built a modular, easy to extend appointment scheduler to both give others easy access to our time while saving more of it for ourselves. The speed at which we're able to get our app deployed and the simplicity of managing our data reinforces that it was an obvious choice to use Cosmic JS both for CMS and deployment. Although our appointment scheduler will definitely save us time in the future, it's a sure thing that it can never compete with the time Cosmic will save us on future projects.
-
----
-
-*Matt Cain builds smart web applications and writes about the tech used to build them. You can learn more about him on his [portfolio](http://mattcain.io)*.
